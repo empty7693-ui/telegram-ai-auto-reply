@@ -68,3 +68,7 @@ Product details: https://message-assistent.pro/products/telegram-agent.html
 - Telegram Agent: https://message-assistent.pro/products/telegram-agent.html
 - YouTube: https://www.youtube.com/@message-assistent
 - Support and help: https://message-assistent.pro/help.html
+
+## Buyer guide and alternatives
+
+The [Telegram Agent buyer guide](docs/BUYER-GUIDE.md) explains the personal-account workflow, alternatives and responsible-use boundaries.
